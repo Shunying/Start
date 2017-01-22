@@ -1,0 +1,2 @@
+laser_scan_publisher_tutorial:robot_setup_tf:tas_group_9/simple_navigation_goals:tas_group_9/tas:tas_group_9/tas_autonomous_control:tas_group_9/wii_control:wiimote
+-DCATKIN_DEVEL_PREFIX=/home/shunying/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shunying/catkin_ws/install -G Unix Makefiles
